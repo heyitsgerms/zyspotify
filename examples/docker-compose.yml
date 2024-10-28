@@ -12,5 +12,5 @@ services:
     environment:
 
       # These should be removed after the first run. since credentials cached in db
-      - USERNAME=example@gmail.com
-      - PASSWORD=hunter2
+      - USERNAME=masterhand64cai@gmail.com
+      - PASSWORD=wwspotted32!
